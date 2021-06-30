@@ -1,0 +1,11 @@
+# ides
+.vscode/
+
+# ref 
+examples.go 
+
+# binary 
+picture-frame
+
+# logs 
+*.log
